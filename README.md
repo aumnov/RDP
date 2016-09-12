@@ -1,6 +1,6 @@
 # Reset grace period for RDP
 
-- Install RDS Role 
+- Install RDS Role
 - Copy two files
 - Create a scheduler
 ----------------------------------------------------------
